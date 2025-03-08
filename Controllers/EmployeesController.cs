@@ -142,7 +142,7 @@ namespace EmployeeManagement.Controllers
             dbContext.Employees.Remove(employee);
             await dbContext.SaveChangesAsync();
 
-            return NoContent(); // No content response for successful deletion
+            return Ok(new { message = "Employee successfully deleted." });
         }
     }
 }

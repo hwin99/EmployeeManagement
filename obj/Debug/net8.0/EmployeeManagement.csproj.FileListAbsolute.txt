@@ -139,3 +139,4 @@ C:\Projects\source\repos\EmployeeManagement\bin\Debug\net8.0\Microsoft.IdentityM
 C:\Projects\source\repos\EmployeeManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Projects\source\repos\EmployeeManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Projects\source\repos\EmployeeManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\source\repos\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json

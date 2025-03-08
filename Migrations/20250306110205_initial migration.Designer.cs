@@ -3,7 +3,6 @@ using EmployeeManagement.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
@@ -11,7 +10,7 @@ namespace EmployeeManagement.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20250306110205_initial migration")]
-    partial class initialmigration
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
